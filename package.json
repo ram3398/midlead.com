@@ -1,0 +1,18 @@
+{
+  "name": "midlead-website",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "lite-server",
+    "sass": "sass --watch --style compressed src/scss:public/css"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "lite-server": "^2.6.1",
+    "particles.js": "^2.0.0",
+    "sass": "^1.49.7"
+  }
+}
